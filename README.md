@@ -1,2 +1,2 @@
 # Biblioteca
-Biblioteca con métodos y arreglos para facilitar el uso de matrices
+Biblioteca con métodos de matrices y arreglos para facilitar el uso de matrices
